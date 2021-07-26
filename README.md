@@ -58,12 +58,29 @@ Thomas High School registered NaN values for 9th grade reading and math scores i
 ##### THS 9th Grade Adjustment
 ![9th by spending](https://user-images.githubusercontent.com/86164867/127049608-5c0b2c29-5a31-4511-be57-a73e398d5ad8.PNG)
 ##### Variance
-There is no variance between the two analyses because the elimination of the 9th grade scores and student counts from Thomas HS does not affect the averages enough to be visible with only one decimal point.
+There is minimal variance between the two analyses because the elimination of the 9th grade scores and student counts from Thomas HS does not have an effect visible to within one decimal point. The variance would have been larger if the student count had not been altered to remove the 9th graders.
 
 
 #### By Size Summary
 
 ##### Initial Analysis
+![ia by size](https://user-images.githubusercontent.com/86164867/127056762-f95b1f15-43ab-4caa-9c89-ed25784cfd02.PNG)
+##### THS 9th Grade Adjustment
+![9th by size](https://user-images.githubusercontent.com/86164867/127056957-030a7d55-5c4f-438b-804c-974da6639849.PNG)
+##### Variance
+Similarly to the spending summary, there is not visible variance since the elimination of the THS 9th grade scores and students counts does not alter the averages significantly enough to be visible with a single decimal point.
+
+#### By Type Summary
+
+##### Initial Analysis
+![ia by type](https://user-images.githubusercontent.com/86164867/127057219-78cc581f-c82e-47b3-bb91-4f5cec5df283.PNG)
+##### THS 9th Grade Adjustment
+![9th by type](https://user-images.githubusercontent.com/86164867/127057286-e549e629-e09c-4ab3-a55d-1e9a4e50112d.PNG)
+##### Variance
+Similarly to the spending and size summaries, there is not visible variance since the elimination of the THS 9th grade scores and students counts does not alter the averages significantly enough to be visible with a single decimal point.
+
+
+
 
 
 
