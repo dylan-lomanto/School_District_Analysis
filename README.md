@@ -51,6 +51,10 @@ Reading Scores:
 ##### Variance
 Thomas High School registered NaN values for 9th grade reading and math scores in the adjusted analysis due to the 9th grade scores being thrown out.
 
+#### By Spending Summary
+
+##### Initial Analysis
+
 
 
 
