@@ -49,11 +49,11 @@ Math Scores:
 Reading Scores:
 ![9th reading](https://user-images.githubusercontent.com/86164867/127048590-5009e9a5-c3c5-4a9e-8bad-a286e58117c6.PNG)
 ##### Variance
+Thomas High School registered NaN values for 9th grade reading and math scores in the adjusted analysis due to the 9th grade scores being thrown out.
 
 
 
 
-##### THS 9th Grade Adjustment
 
 
 
