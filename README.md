@@ -79,7 +79,15 @@ Similarly to the spending summary, there is not visible variance since the elimi
 ##### Variance
 Similarly to the spending and size summaries, there is not visible variance since the elimination of the THS 9th grade scores and students counts does not alter the averages significantly enough to be visible with a single decimal point.
 
+### Summary
 
+#1: When replacing the THS 9th grade scores with NaN, but not removing the 9th graders from the student count, THS falls from the second highest overall passing % to the eighth.
+
+#2: When replacing the THS 9th grade scores with NaN, but removing the 9th graders from the student count, THS retains its position as the second highest overal passing %, but falls .3%.
+
+#3: The $615-$644 spending bin overall passing % drops by .05% when replacing the THS 9th grade scores. It does not affect the order of overall passing % for the given spending ranges.
+
+#4 The school typew and school size overall passing % orders are not affected by the replacement.
 
 
 
