@@ -55,10 +55,15 @@ Thomas High School registered NaN values for 9th grade reading and math scores i
 
 ##### Initial Analysis
 ![ia by spending correct](https://user-images.githubusercontent.com/86164867/127049899-d8af0de2-bb93-487c-b13f-a0c4acfa5d05.PNG)
-
 ##### THS 9th Grade Adjustment
 ![9th by spending](https://user-images.githubusercontent.com/86164867/127049608-5c0b2c29-5a31-4511-be57-a73e398d5ad8.PNG)
+##### Variance
+There is no variance between the two analyses because the elimination of the 9th grade scores and student counts from Thomas HS does not affect the averages enough to be visible with only one decimal point.
 
+
+#### By Size Summary
+
+##### Initial Analysis
 
 
 
