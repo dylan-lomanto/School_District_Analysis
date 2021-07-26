@@ -34,6 +34,6 @@ The Thomas HS passing percentages were heavily affect by the adjustment, since r
 ##### THS 9th Grade Adjustment Bottom
 ![ths_9th-bottom](https://user-images.githubusercontent.com/86164867/127045435-84c06204-c6ee-4cd1-b09f-d213b9d6da94.PNG)
 ##### Variance
-There is no visible 
+There is slight variance between the passing percetages for Thomas HS in the initial and adjusted analysis. This difference is small because we eliminated the THS 9th graders from the count before getting the averages.
 
 
