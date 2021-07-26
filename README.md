@@ -8,4 +8,6 @@ The client has provided me with reading and math test scores for students at 15 
 #### District Summary
 ##### Initial Analysis
 ![ia_district_summary](https://user-images.githubusercontent.com/86164867/127041715-a408eb04-3adc-4bf9-a2d7-8388429d936d.PNG)
+##### THS 9th Grade Adjustment
+![ths_9th_district_summary](https://user-images.githubusercontent.com/86164867/127041853-9019466f-40fd-4f97-af81-39cfaba71988.PNG)
 
