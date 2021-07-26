@@ -23,3 +23,17 @@ The average scores and percent passing have slightly dropped for all categories 
 ##### Variance
 The Thomas HS passing percentages were heavily affect by the adjustment, since roughly one quarter of the students recorded scores of 0 for both tests.
 
+#### Top and Bottom Schools
+
+##### Initial Analysis Top
+![ia_top_schools](https://user-images.githubusercontent.com/86164867/127043289-f667481a-0ae1-437b-bb6a-f840a374f3eb.PNG)
+##### Initial Analysis Bottom
+![ia_bottom_schools](https://user-images.githubusercontent.com/86164867/127043399-401ae81c-d697-409d-8db0-9b01c630b460.PNG)
+##### THS 9th Grade Adjustment Top
+![ths_9th_top](https://user-images.githubusercontent.com/86164867/127043535-a83f45eb-e275-4b82-a0f8-2969c68dc0f8.PNG)
+##### THS 9th Grade Adjustment Bottom
+![ths_9th-bottom](https://user-images.githubusercontent.com/86164867/127045435-84c06204-c6ee-4cd1-b09f-d213b9d6da94.PNG)
+##### Variance
+There is no visible 
+
+
