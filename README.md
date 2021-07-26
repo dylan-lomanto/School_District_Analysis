@@ -39,5 +39,21 @@ There is slight variance between the passing percetages for Thomas HS in the ini
 #### By Grade Summary
 
 ##### Initial Analysis
+Math Scores:
+![ia_by_grade](https://user-images.githubusercontent.com/86164867/127047662-10f9093a-b5e2-4864-8f0f-edcabe7dd038.PNG)
+Reading Scores:
+![ia reading by grade](https://user-images.githubusercontent.com/86164867/127048410-5ab85bca-b421-4dae-8b8c-5bbaee118d43.PNG)
+##### THS 9th Grade Adjustment
+Math Scores:
+![9th math](https://user-images.githubusercontent.com/86164867/127048531-c6bb95ab-a2b6-413d-83b1-f17beb9b4301.PNG)
+Reading Scores:
+![9th reading](https://user-images.githubusercontent.com/86164867/127048590-5009e9a5-c3c5-4a9e-8bad-a286e58117c6.PNG)
+##### Variance
+
+
+
+
+##### THS 9th Grade Adjustment
+
 
 
